@@ -2,7 +2,7 @@
 """
 Created on Fri May  7 20:32:49 2021
 
-@author: Jorge Gersenowies
+@author: Carlos Gersenowies
 """
 
 import random
